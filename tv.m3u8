@@ -9553,8 +9553,6 @@ http://50.7.28.226/8442/index.m3u8
 http://50.7.28.226/8449/index.m3u8
 #EXTINF:-1 group-title="Общие",ОККО TV
 http://50.7.28.226/9232/index.m3u8
-#EXTINF:-1 group-title="NI",CANAL 9
-https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 #EXTINF:-1 group-title="Австралия" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/512px-10_Shake_logo_2020.svg.png",10 Shake (480p)
 http://44.32.200.212:5004/auto/v13
 #EXTINF:-1 group-title="Австралия" tvg-logo="https://i.imgur.com/8vGGdB0.png",ausbiz TV (720p) [Not 24/7]
@@ -20983,6 +20981,8 @@ http://85.11.144.9:50999/39
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 #EXTINF:-1 group-title="Нидерланды",Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Никарагуа",CANAL 9
+https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 #EXTINF:-1 group-title="Новая Зеландия" tvg-logo="https://i.imgur.com/qvrNVFg.png",MIS Televizija (720p) [Not 24/7]
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Новая Зеландия" tvg-logo="https://i.imgur.com/gAebu4q.png",Channel 200 (540p)
